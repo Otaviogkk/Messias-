@@ -1,3 +1,5 @@
+// José Otávio Luciano Sousa Chagas
+// Ronalty Hauan Gomes Galvão Dos Santos
 public class Conta {
  private int numero;
  private String Titular;
