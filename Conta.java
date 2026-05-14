@@ -14,7 +14,7 @@ public String getTitular(){
 public int getNumero(){
  return this.numero;
 }  
-public void setSaldo(Double Saldo){
+public void setSaldo(double Saldo){
  this.Saldo = Saldo;
 }
 public void setTitular(String Titular){
