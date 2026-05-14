@@ -1,5 +1,5 @@
 # Messias-
-Trabalho para nosso querido Messias analisa com amor 
+Trabalho para nosso querido Messias analisar com amor 
 
                               Escrito por: Ronalty Hauan
 
